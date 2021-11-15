@@ -10,4 +10,4 @@ def long_word(word):
         return 'long'
     else:
         return 'short'
-    assert 'long' == 'long'
+    assert 'long' == "long"
