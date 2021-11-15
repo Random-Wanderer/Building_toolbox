@@ -8,4 +8,4 @@ def long_word(word):
     if word > 5:
         return 'long'
     else:
-        return 'short'
+        return "short"
