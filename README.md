@@ -1,12 +1,8 @@
-# Build basic functions.
+# Explore Olist data.
 
-# Data analysis
-- Document here the project: mytoolbox
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+Data from:
+https://www.kaggle.com/sank3t/olist-data-preparation/data
 
-Please document the project the better you can.
 
 # Startup the project
 
